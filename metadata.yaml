@@ -1,0 +1,27 @@
+_repo: Grammar-of-the-New-Zealand-language--2nd-edition-_44897
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44897-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maunsell, Robert
+    alias: Te Manihera
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '42973'
+    url: http://www.gutenberg.org/2009/agents/42973
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maori language -- Grammar'
+- !lcc 'PL'
+title: Grammar of the New Zealand language (2nd edition)
+url: http://www.gutenberg.org/ebooks/44897
